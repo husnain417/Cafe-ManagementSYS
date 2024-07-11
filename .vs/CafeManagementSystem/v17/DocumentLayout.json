@@ -1,0 +1,691 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Downloads\\CafeManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE59B6-6019-409C-AA85-E757160B1D0E}|CafeManagementSystem\\CafeManagementSystem.csproj|c:\\users\\hp\\downloads\\cafemanagementsystem\\cafemanagementsystem\\cashiermainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{75FE59B6-6019-409C-AA85-E757160B1D0E}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\cashiermainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE59B6-6019-409C-AA85-E757160B1D0E}|CafeManagementSystem\\CafeManagementSystem.csproj|c:\\users\\hp\\downloads\\cafemanagementsystem\\cafemanagementsystem\\cashiermainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FE59B6-6019-409C-AA85-E757160B1D0E}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\cashiermainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE59B6-6019-409C-AA85-E757160B1D0E}|CafeManagementSystem\\CafeManagementSystem.csproj|c:\\users\\hp\\downloads\\cafemanagementsystem\\cafemanagementsystem\\adminmainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{75FE59B6-6019-409C-AA85-E757160B1D0E}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\adminmainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE59B6-6019-409C-AA85-E757160B1D0E}|CafeManagementSystem\\CafeManagementSystem.csproj|c:\\users\\hp\\downloads\\cafemanagementsystem\\cafemanagementsystem\\adminmainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FE59B6-6019-409C-AA85-E757160B1D0E}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\adminmainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE59B6-6019-409C-AA85-E757160B1D0E}|CafeManagementSystem\\CafeManagementSystem.csproj|C:\\Users\\hp\\Downloads\\CafeManagementSystem\\cafemanagementsystem\\barista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FE59B6-6019-409C-AA85-E757160B1D0E}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\barista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE59B6-6019-409C-AA85-E757160B1D0E}|CafeManagementSystem\\CafeManagementSystem.csproj|C:\\Users\\hp\\Downloads\\CafeManagementSystem\\cafemanagementsystem\\barista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{75FE59B6-6019-409C-AA85-E757160B1D0E}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\barista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE59B6-6019-409C-AA85-E757160B1D0E}|CafeManagementSystem\\CafeManagementSystem.csproj|c:\\users\\hp\\downloads\\cafemanagementsystem\\cafemanagementsystem\\currentmanagers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FE59B6-6019-409C-AA85-E757160B1D0E}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\currentmanagers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE59B6-6019-409C-AA85-E757160B1D0E}|CafeManagementSystem\\CafeManagementSystem.csproj|c:\\users\\hp\\downloads\\cafemanagementsystem\\cafemanagementsystem\\currentmanagers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{75FE59B6-6019-409C-AA85-E757160B1D0E}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\currentmanagers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE59B6-6019-409C-AA85-E757160B1D0E}|CafeManagementSystem\\CafeManagementSystem.csproj|C:\\Users\\hp\\Downloads\\CafeManagementSystem\\cafemanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FE59B6-6019-409C-AA85-E757160B1D0E}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE59B6-6019-409C-AA85-E757160B1D0E}|CafeManagementSystem\\CafeManagementSystem.csproj|c:\\users\\hp\\downloads\\cafemanagementsystem\\cafemanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{75FE59B6-6019-409C-AA85-E757160B1D0E}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE59B6-6019-409C-AA85-E757160B1D0E}|CafeManagementSystem\\CafeManagementSystem.csproj|c:\\users\\hp\\downloads\\cafemanagementsystem\\cafemanagementsystem\\productdiv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{75FE59B6-6019-409C-AA85-E757160B1D0E}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\productdiv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE59B6-6019-409C-AA85-E757160B1D0E}|CafeManagementSystem\\CafeManagementSystem.csproj|C:\\Users\\hp\\Downloads\\CafeManagementSystem\\cafemanagementsystem\\managercontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{75FE59B6-6019-409C-AA85-E757160B1D0E}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\managercontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE59B6-6019-409C-AA85-E757160B1D0E}|CafeManagementSystem\\CafeManagementSystem.csproj|C:\\Users\\hp\\Downloads\\CafeManagementSystem\\cafemanagementsystem\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{75FE59B6-6019-409C-AA85-E757160B1D0E}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Downloads\\CurrentManagers.Designer (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE59B6-6019-409C-AA85-E757160B1D0E}|CafeManagementSystem\\CafeManagementSystem.csproj|c:\\users\\hp\\downloads\\cafemanagementsystem\\cafemanagementsystem\\currentmanagers.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FE59B6-6019-409C-AA85-E757160B1D0E}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\currentmanagers.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Downloads\\CurrentManagers (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE59B6-6019-409C-AA85-E757160B1D0E}|CafeManagementSystem\\CafeManagementSystem.csproj|c:\\users\\hp\\downloads\\cafemanagementsystem\\cafemanagementsystem\\adminmainscreen.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FE59B6-6019-409C-AA85-E757160B1D0E}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\adminmainscreen.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Downloads\\AdminMainScreen.Designer (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Downloads\\AdminMainScreen (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE59B6-6019-409C-AA85-E757160B1D0E}|CafeManagementSystem\\CafeManagementSystem.csproj|c:\\users\\hp\\downloads\\cafemanagementsystem\\cafemanagementsystem\\productdiv.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FE59B6-6019-409C-AA85-E757160B1D0E}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\productdiv.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Downloads\\ProductDiv.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE59B6-6019-409C-AA85-E757160B1D0E}|CafeManagementSystem\\CafeManagementSystem.csproj|c:\\users\\hp\\downloads\\cafemanagementsystem\\cafemanagementsystem\\productdiv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FE59B6-6019-409C-AA85-E757160B1D0E}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\productdiv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Downloads\\ProductDiv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE59B6-6019-409C-AA85-E757160B1D0E}|CafeManagementSystem\\CafeManagementSystem.csproj|c:\\users\\hp\\downloads\\cafemanagementsystem\\cafemanagementsystem\\cashiermainscreen.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{75FE59B6-6019-409C-AA85-E757160B1D0E}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\cashiermainscreen.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Downloads\\CashierMainScreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE59B6-6019-409C-AA85-E757160B1D0E}|CafeManagementSystem\\CafeManagementSystem.csproj|c:\\users\\hp\\downloads\\cafemanagementsystem\\cafemanagementsystem\\cashiermainscreen.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FE59B6-6019-409C-AA85-E757160B1D0E}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\cashiermainscreen.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Downloads\\CashierMainScreen.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE59B6-6019-409C-AA85-E757160B1D0E}|CafeManagementSystem\\CafeManagementSystem.csproj|C:\\Users\\hp\\Downloads\\CafeManagementSystem\\cafemanagementsystem\\managercontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FE59B6-6019-409C-AA85-E757160B1D0E}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\managercontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE59B6-6019-409C-AA85-E757160B1D0E}|CafeManagementSystem\\CafeManagementSystem.csproj|C:\\Users\\hp\\Downloads\\CafeManagementSystem\\cafemanagementsystem\\barista.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FE59B6-6019-409C-AA85-E757160B1D0E}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\barista.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE59B6-6019-409C-AA85-E757160B1D0E}|CafeManagementSystem\\CafeManagementSystem.csproj|C:\\Users\\hp\\Downloads\\CafeManagementSystem\\cafemanagementsystem\\db_access.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FE59B6-6019-409C-AA85-E757160B1D0E}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\db_access.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE59B6-6019-409C-AA85-E757160B1D0E}|CafeManagementSystem\\CafeManagementSystem.csproj|C:\\Users\\hp\\Downloads\\CafeManagementSystem\\cafemanagementsystem\\managercontrols.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FE59B6-6019-409C-AA85-E757160B1D0E}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\managercontrols.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE59B6-6019-409C-AA85-E757160B1D0E}|CafeManagementSystem\\CafeManagementSystem.csproj|C:\\Users\\hp\\Downloads\\CafeManagementSystem\\cafemanagementsystem\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FE59B6-6019-409C-AA85-E757160B1D0E}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Downloads\\AdminMainScreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE59B6-6019-409C-AA85-E757160B1D0E}|CafeManagementSystem\\CafeManagementSystem.csproj|C:\\Users\\hp\\Downloads\\CafeManagementSystem\\cafemanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FE59B6-6019-409C-AA85-E757160B1D0E}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE59B6-6019-409C-AA85-E757160B1D0E}|CafeManagementSystem\\CafeManagementSystem.csproj|C:\\Users\\hp\\Downloads\\CafeManagementSystem\\cafemanagementsystem\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FE59B6-6019-409C-AA85-E757160B1D0E}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FE59B6-6019-409C-AA85-E757160B1D0E}|CafeManagementSystem\\CafeManagementSystem.csproj|C:\\Users\\hp\\Downloads\\CafeManagementSystem\\cafemanagementsystem\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{75FE59B6-6019-409C-AA85-E757160B1D0E}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Downloads\\AdminMainScreen.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Downloads\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Downloads\\CurrentManagers.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Downloads\\CurrentManagers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Downloads\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminMainScreen.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\AdminMainScreen.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\AdminMainScreen.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\AdminMainScreen.cs",
+              "RelativeToolTip": "CafeManagementSystem\\AdminMainScreen.cs",
+              "ViewState": "AQIAAPYAAAAAAAAAAAAqwAMBAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T17:40:12.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminMainScreen.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\AdminMainScreen.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\AdminMainScreen.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\AdminMainScreen.cs [Design]",
+              "RelativeToolTip": "CafeManagementSystem\\AdminMainScreen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T17:39:50.629Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CashierMainScreen.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\CashierMainScreen.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\CashierMainScreen.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\CashierMainScreen.cs [Design]*",
+              "RelativeToolTip": "CafeManagementSystem\\CashierMainScreen.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T17:18:50.553Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CashierMainScreen.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\CashierMainScreen.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\CashierMainScreen.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\CashierMainScreen.cs*",
+              "RelativeToolTip": "CafeManagementSystem\\CashierMainScreen.cs*",
+              "ViewState": "AQIAAK8AAAAAAAAAAAASwLYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T17:18:56.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Barista.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\Barista.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\Barista.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\Barista.cs",
+              "RelativeToolTip": "CafeManagementSystem\\Barista.cs",
+              "ViewState": "AQIAAC4AAAAAaGZmZmYkwFkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T09:54:34.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Barista.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\Barista.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\Barista.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\Barista.cs [Design]",
+              "RelativeToolTip": "CafeManagementSystem\\Barista.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T09:14:20.136Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CurrentManagers.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\CurrentManagers.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\CurrentManagers.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\CurrentManagers.cs",
+              "RelativeToolTip": "CafeManagementSystem\\CurrentManagers.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAIwFgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T17:42:13.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CurrentManagers.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\CurrentManagers.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\CurrentManagers.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\CurrentManagers.cs [Design]",
+              "RelativeToolTip": "CafeManagementSystem\\CurrentManagers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T17:41:44.78Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\Form1.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\Form1.cs",
+              "RelativeToolTip": "CafeManagementSystem\\Form1.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowC8AAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T15:23:41.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\Form1.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\Form1.cs [Design]",
+              "RelativeToolTip": "CafeManagementSystem\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T15:23:40.19Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductDiv.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\ProductDiv.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\ProductDiv.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\ProductDiv.cs [Design]",
+              "RelativeToolTip": "CafeManagementSystem\\ProductDiv.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T17:34:33.097Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ManagerControls.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\ManagerControls.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\ManagerControls.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\ManagerControls.cs [Design]",
+              "RelativeToolTip": "CafeManagementSystem\\ManagerControls.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T15:25:48.35Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Manager.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\Manager.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\Manager.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\Manager.cs [Design]",
+              "RelativeToolTip": "CafeManagementSystem\\Manager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T15:25:44.718Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CurrentManagers.Designer (1).cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\CurrentManagers.Designer (1).cs",
+              "RelativeDocumentMoniker": "..\\CurrentManagers.Designer (1).cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\CurrentManagers.Designer (1).cs",
+              "RelativeToolTip": "..\\CurrentManagers.Designer (1).cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T17:42:20.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CurrentManagers.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\CurrentManagers.Designer.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\CurrentManagers.Designer.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\CurrentManagers.Designer.cs",
+              "RelativeToolTip": "CafeManagementSystem\\CurrentManagers.Designer.cs",
+              "ViewState": "AQIAAK8AAAAAAAAAAAAIwMUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T17:42:36.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CurrentManagers (1).cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\CurrentManagers (1).cs",
+              "RelativeDocumentMoniker": "..\\CurrentManagers (1).cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\CurrentManagers (1).cs",
+              "RelativeToolTip": "..\\CurrentManagers (1).cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T17:42:05.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdminMainScreen.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\AdminMainScreen.Designer.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\AdminMainScreen.Designer.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\AdminMainScreen.Designer.cs",
+              "RelativeToolTip": "CafeManagementSystem\\AdminMainScreen.Designer.cs",
+              "ViewState": "AQIAADAEAAAAAAAAAAAIwDoEAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T17:40:24.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AdminMainScreen.Designer (1).cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\AdminMainScreen.Designer (1).cs",
+              "RelativeDocumentMoniker": "..\\AdminMainScreen.Designer (1).cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\AdminMainScreen.Designer (1).cs",
+              "RelativeToolTip": "..\\AdminMainScreen.Designer (1).cs",
+              "ViewState": "AQIAAKUDAAAAAAAAAAAIwLsDAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T17:40:21.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AdminMainScreen (1).cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\AdminMainScreen (1).cs",
+              "RelativeDocumentMoniker": "..\\AdminMainScreen (1).cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\AdminMainScreen (1).cs",
+              "RelativeToolTip": "..\\AdminMainScreen (1).cs",
+              "ViewState": "AQIAAKQAAAAAAAAAAAAIwLoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T17:40:00.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductDiv.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\ProductDiv.Designer.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\ProductDiv.Designer.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\ProductDiv.Designer.cs",
+              "RelativeToolTip": "CafeManagementSystem\\ProductDiv.Designer.cs",
+              "ViewState": "AQIAAIoAAAAAmpmZmZkZwI8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T17:35:09.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProductDiv.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\ProductDiv.Designer.cs",
+              "RelativeDocumentMoniker": "..\\ProductDiv.Designer.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\ProductDiv.Designer.cs",
+              "RelativeToolTip": "..\\ProductDiv.Designer.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAIwOoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T17:34:44.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProductDiv.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\ProductDiv.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\ProductDiv.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\ProductDiv.cs",
+              "RelativeToolTip": "CafeManagementSystem\\ProductDiv.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAIwF8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T17:35:02.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProductDiv.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\ProductDiv.cs",
+              "RelativeDocumentMoniker": "..\\ProductDiv.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\ProductDiv.cs",
+              "RelativeToolTip": "..\\ProductDiv.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAIwF8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T17:34:50.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CashierMainScreen.resx",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\CashierMainScreen.resx",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\CashierMainScreen.resx",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\CashierMainScreen.resx*",
+              "RelativeToolTip": "CafeManagementSystem\\CashierMainScreen.resx*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-05T17:29:23.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CashierMainScreen.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\CashierMainScreen.cs",
+              "RelativeDocumentMoniker": "..\\CashierMainScreen.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\CashierMainScreen.cs",
+              "RelativeToolTip": "..\\CashierMainScreen.cs",
+              "ViewState": "AQIAALIAAAAAAAAAAAAAABIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T17:19:03.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CashierMainScreen.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\CashierMainScreen.Designer.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\CashierMainScreen.Designer.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\CashierMainScreen.Designer.cs*",
+              "RelativeToolTip": "CafeManagementSystem\\CashierMainScreen.Designer.cs*",
+              "ViewState": "AQIAAIgCAAAA0P/////3v5YBAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T17:19:29.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CashierMainScreen.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\CashierMainScreen.Designer.cs",
+              "RelativeDocumentMoniker": "..\\CashierMainScreen.Designer.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\CashierMainScreen.Designer.cs",
+              "RelativeToolTip": "..\\CashierMainScreen.Designer.cs",
+              "ViewState": "AQIAAIsDAAAAAAAAAAAkwJ4DAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T17:19:19.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Barista.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\Barista.Designer.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\Barista.Designer.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\Barista.Designer.cs",
+              "RelativeToolTip": "CafeManagementSystem\\Barista.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwBYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T15:26:17.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ManagerControls.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\ManagerControls.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\ManagerControls.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\ManagerControls.cs",
+              "RelativeToolTip": "CafeManagementSystem\\ManagerControls.cs",
+              "ViewState": "AQIAAMIBAAAAAAAAAAAqwNkBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T15:46:11.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DB_Access.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\DB_Access.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\DB_Access.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\DB_Access.cs",
+              "RelativeToolTip": "CafeManagementSystem\\DB_Access.cs",
+              "ViewState": "AQIAAGAAAACgmZmZmZkjwGcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T18:45:54.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ManagerControls.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\ManagerControls.Designer.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\ManagerControls.Designer.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\ManagerControls.Designer.cs",
+              "RelativeToolTip": "CafeManagementSystem\\ManagerControls.Designer.cs",
+              "ViewState": "AQIAACgEAAAAwMzMzMwQwDEEAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T16:51:55.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AdminMainScreen.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\AdminMainScreen.cs",
+              "RelativeDocumentMoniker": "..\\AdminMainScreen.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\AdminMainScreen.cs",
+              "RelativeToolTip": "..\\AdminMainScreen.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAJgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T15:19:38.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\Manager.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\Manager.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\Manager.cs",
+              "RelativeToolTip": "CafeManagementSystem\\Manager.cs",
+              "ViewState": "AQIAADoAAACYmZmZmZkywEoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T15:41:14.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\Program.cs",
+              "RelativeToolTip": "CafeManagementSystem\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAiwA4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T15:14:08.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\Form1.Designer.cs",
+              "RelativeToolTip": "CafeManagementSystem\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAMcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T15:24:26.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\packages.config",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\packages.config",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\CafeManagementSystem\\CafeManagementSystem\\packages.config",
+              "RelativeToolTip": "CafeManagementSystem\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-03T16:30:14.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AdminMainScreen.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\AdminMainScreen.Designer.cs",
+              "RelativeDocumentMoniker": "..\\AdminMainScreen.Designer.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\AdminMainScreen.Designer.cs",
+              "RelativeToolTip": "..\\AdminMainScreen.Designer.cs",
+              "ViewState": "AQIAAEoDAAAAAAAAAAAuwGMDAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T15:20:10.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\Form1.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\Form1.cs",
+              "RelativeToolTip": "..\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T15:07:52.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CurrentManagers.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\CurrentManagers.Designer.cs",
+              "RelativeDocumentMoniker": "..\\CurrentManagers.Designer.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\CurrentManagers.Designer.cs",
+              "RelativeToolTip": "..\\CurrentManagers.Designer.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAADwv8UAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T15:26:07.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CurrentManagers.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\CurrentManagers.cs",
+              "RelativeDocumentMoniker": "..\\CurrentManagers.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\CurrentManagers.cs",
+              "RelativeToolTip": "..\\CurrentManagers.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAADwv1wAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T15:26:11.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "..\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\Form1.Designer.cs",
+              "RelativeToolTip": "..\\Form1.Designer.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAQwL4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T15:02:47.906Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

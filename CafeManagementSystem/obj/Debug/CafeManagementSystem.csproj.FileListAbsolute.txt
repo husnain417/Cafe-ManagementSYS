@@ -1,0 +1,30 @@
+C:\Users\MuhammadTayyab\Documents\Fourth Semester\Data Base Systems\CafeManagementSystem\CafeManagementSystem\bin\Debug\CafeManagementSystem.exe.config
+C:\Users\MuhammadTayyab\Documents\Fourth Semester\Data Base Systems\CafeManagementSystem\CafeManagementSystem\bin\Debug\CafeManagementSystem.exe
+C:\Users\MuhammadTayyab\Documents\Fourth Semester\Data Base Systems\CafeManagementSystem\CafeManagementSystem\bin\Debug\CafeManagementSystem.pdb
+C:\Users\MuhammadTayyab\Documents\Fourth Semester\Data Base Systems\CafeManagementSystem\CafeManagementSystem\bin\Debug\Guna.UI2.dll
+C:\Users\MuhammadTayyab\Documents\Fourth Semester\Data Base Systems\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.csproj.AssemblyReference.cache
+C:\Users\MuhammadTayyab\Documents\Fourth Semester\Data Base Systems\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.Cashier.resources
+C:\Users\MuhammadTayyab\Documents\Fourth Semester\Data Base Systems\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.Form1.resources
+C:\Users\MuhammadTayyab\Documents\Fourth Semester\Data Base Systems\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.Properties.Resources.resources
+C:\Users\MuhammadTayyab\Documents\Fourth Semester\Data Base Systems\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.csproj.GenerateResource.cache
+C:\Users\MuhammadTayyab\Documents\Fourth Semester\Data Base Systems\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\MuhammadTayyab\Documents\Fourth Semester\Data Base Systems\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.csproj.CopyComplete
+C:\Users\MuhammadTayyab\Documents\Fourth Semester\Data Base Systems\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.exe
+C:\Users\MuhammadTayyab\Documents\Fourth Semester\Data Base Systems\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.pdb
+C:\Users\hp\Downloads\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.csproj.AssemblyReference.cache
+C:\Users\hp\Downloads\CafeManagementSystem\CafeManagementSystem\bin\Debug\CafeManagementSystem.exe.config
+C:\Users\hp\Downloads\CafeManagementSystem\CafeManagementSystem\bin\Debug\CafeManagementSystem.exe
+C:\Users\hp\Downloads\CafeManagementSystem\CafeManagementSystem\bin\Debug\CafeManagementSystem.pdb
+C:\Users\hp\Downloads\CafeManagementSystem\CafeManagementSystem\bin\Debug\Guna.UI2.dll
+C:\Users\hp\Downloads\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.Manager.resources
+C:\Users\hp\Downloads\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.Form1.resources
+C:\Users\hp\Downloads\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.Properties.Resources.resources
+C:\Users\hp\Downloads\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.csproj.GenerateResource.cache
+C:\Users\hp\Downloads\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeMana.32F80087.Up2Date
+C:\Users\hp\Downloads\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.exe
+C:\Users\hp\Downloads\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.pdb
+C:\Users\hp\Downloads\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.ManagerControls.resources
+C:\Users\hp\Downloads\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.Barista.resources
+C:\Users\hp\Downloads\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.AdminMainScreen.resources
+C:\Users\hp\Downloads\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.CashierMainScreen.resources
